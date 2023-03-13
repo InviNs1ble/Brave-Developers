@@ -1,6 +1,7 @@
 # compiled output
-/dist
-/node_modules
+ChatApp/server/dist
+ChatApp/server/node_modules
+ChatApp/client/node_modules
 
 # Logs
 logs
