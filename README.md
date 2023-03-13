@@ -1,4 +1,5 @@
 # Запуск приложения:
 
-1) docker compose up
-2) http://localhost:5173
+1) cd chatapp
+2) docker compose up
+3) http://localhost:5173
